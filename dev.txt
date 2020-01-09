@@ -1,5 +1,3 @@
 aaaaaaaaaaa
 bbbbbbbbbbb
-ccccccccccc
-ddddddddddd
-eeeeeeeeeee
+resolve
